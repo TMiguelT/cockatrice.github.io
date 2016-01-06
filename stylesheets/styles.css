@@ -1,3 +1,13 @@
+/*custom classes*/
+.center{
+  text-align: center;
+}
+
+ol.double-spaced>li{
+  margin:0 0 1.5em 0;
+}
+
+/*preexisting CSS*/
 @font-face {
   font-family: 'Noto Sans';
   font-weight: 400;
